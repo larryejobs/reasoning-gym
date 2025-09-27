@@ -16,7 +16,7 @@
         </p>
 </p>
 
-## 🧠 About
+### 🧠 About
 
 **Reasoning Gym** is a community-created Python library of procedural dataset generators and algorithmically verifiable reasoning environments for training reasoning models with reinforcement learning (RL). The goal is to generate virtually infinite training data with adjustable complexity.
 
